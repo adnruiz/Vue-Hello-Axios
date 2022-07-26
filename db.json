@@ -1,19 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "Todo": [
+        {
+            "id": 0,
+            "name": "Cheak reetol app using JOIN for 2 or + tables " 
+        },
+        {
+            "id":1,
+            "name": "Learn VUE js"
+        },
+        {
+            "id":2,
+            "name": "Finish Platzi Couerse Node.js, express, sequelize and dbAdmin"
+        },
+        {
+            "id":3,
+            "name":"Finish Notion Documentation."
+        },
+        {
+            "id":4,
+            "name": "Instagram food service for my parents"
+        }
+    ]
 }
